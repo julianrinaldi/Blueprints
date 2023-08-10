@@ -284,10 +284,10 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
-                - 7
+                - 11
                 - "{{ color }}"
                 - "{{ level }}"
                 - "{{ duration }}"
@@ -304,7 +304,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 12
@@ -324,7 +324,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 13
@@ -344,7 +344,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 14
@@ -364,7 +364,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 16
@@ -384,7 +384,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 2
@@ -404,7 +404,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 17
@@ -424,7 +424,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 6
@@ -444,7 +444,7 @@ sequence:
               endpoint_id: 1
               cluster_id: 64561
               cluster_type: in
-              command: 11
+              command: 1
               command_type: server
               args:
                 - 7
